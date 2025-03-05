@@ -138,7 +138,7 @@
             </ul> <!-- end s-intro__social -->
 
             <div class="s-intro__content-media">
-                <img src="images/bg.JPG" srcset="images/bg.JPG 1x, images/bg.JPG 2x" alt="">
+                <img src="images/bg.jpg" srcset="images/bg.jpg 1x, images/bg.jpg 2x" alt="">
             </div> <!-- s-intro__content-media -->
 
             <div class="s-intro__btn-download">
